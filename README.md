@@ -26,3 +26,7 @@ Through this analysis, several insights were uncovered:
 Gender Impact: Female passengers had a significantly higher survival rate compared to male passengers.
 Class Disparity: Passengers in the first class had a much higher chance of survival compared to those in second and third class.
 Age Factor: Younger passengers tended to have higher survival rates, with children being particularly more likely to survive.
+
+Conclusion
+
+This exploratory data analysis provides a foundational understanding of the Titanic dataset and highlights key factors that influenced passenger survival. The insights gained can serve as a basis for further predictive modeling and analysis. The code and visualizations in this repository can be used as a reference for anyone interested in performing similar analyses on real-world datasets.
