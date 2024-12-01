@@ -1,15 +1,19 @@
 # Titanic-EDA-Prodigy
 
 Exploratory Data Analysis of the Titanic Dataset
+
 Overview
+
 This repository contains an Exploratory Data Analysis (EDA) of the Titanic dataset, which is a classic dataset used in data science and machine learning. The Titanic dataset provides insights into the demographics and survival rates of passengers aboard the ill-fated RMS Titanic, which sank on its maiden voyage in 1912. The goal of this analysis is to explore the dataset, uncover patterns, and provide visualizations that highlight key insights regarding passenger survival.
 
 Dataset Description
+
 Name: Name of the passenger.
 Sex: Gender of the passenger.
 Age: Age of the passenger in years.
 
 Objectives
+
 The main objectives of this EDA are:
 
 Data Cleaning: Handle missing values, correct data types, and ensure the dataset is ready for analysis.
